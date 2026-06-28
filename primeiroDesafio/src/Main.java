@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-       System.out.println("Hello World");
+        System.out.println("Hello World");
         System.out.println("Escolha um persornagem:");
         String[] nome = {"Supermen", "Batman", "Flash", "SuperGirl"};
         System.out.println(nome[3]);
